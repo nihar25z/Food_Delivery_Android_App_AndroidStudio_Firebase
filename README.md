@@ -1,6 +1,7 @@
 # Food_Delivery_Android_App_AndroidStudio_Firebase
-This android application is a food delivery application. It uses Firebase Realtime database and made with the use of android java.
-this app is having functionality like register user,sign in, different types of Notification,Order Food from app and you can you want dine in or you want at home,also we have use google map ,Qr code scanner to make order from hotel and etc. 
+This android application is a food delivery application. 
+It uses Firebase Realtime database and made with the use of android java.
+This app is having functionality like register user,sign in, different types of Notification,Order Food from app and you can you want dine in or you want at home,also we have use google map ,Qr code scanner to make order from hotel and etc. 
 
 
 if u want to see Demo video or screen shot of food order app click on this link below: 
