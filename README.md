@@ -5,6 +5,7 @@ This app is having functionality like register user,sign in, different types of 
 
 
 if u want to see Demo video or screen shot of food order app click on this link below: 
+https://www.linkedin.com/posts/nihar-zatakiya-745aa0193_android-androiddevelopment-foodapp-activity-6884404929134374912-lYc1
 
 
 ![image](https://user-images.githubusercontent.com/71659827/148178152-2d701e46-15b7-4792-98e2-af5c75367dfa.png)
