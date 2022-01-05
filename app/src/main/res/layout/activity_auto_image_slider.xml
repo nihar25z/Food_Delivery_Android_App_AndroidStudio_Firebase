@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/white"
+tools:context=".AutoImageSlider"
+    tools:ignore="MissingClass">
+
+    <com.smarteist.autoimageslider.SliderView
+        android:id="@+id/image_slider"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:sliderAutoCycleDirection="right"
+        app:sliderAutoCycleEnabled="true"
+        app:sliderIndicatorEnabled="false"
+        app:sliderStartAutoCycle="true">
+
+    </com.smarteist.autoimageslider.SliderView>
+
+    <androidx.appcompat.widget.AppCompatButton
+    android:id="@+id/dineInButton"
+    android:layout_width="150dp"
+    android:layout_height="60dp"
+    android:background="@drawable/home_delivery_btn"
+    android:drawableEnd="@drawable/ic_baseline_navigate_next_24"
+    android:text="DINE IN"
+    android:textColor="@color/black"
+    android:textSize="18dp"
+    app:layout_constraintVertical_bias="0.1"
+    app:layout_constraintHorizontal_bias="0.5"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="@+id/image_slider" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/homeDeliveryButton"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:background="@drawable/home_delivery_btn"
+        android:drawableEnd="@drawable/ic_baseline_navigate_next_24"
+        android:gravity="center"
+        android:text="DELIVERY"
+        android:textSize="18dp"
+        android:textColor="@color/black"
+        app:layout_constraintVertical_bias="0.8"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dineInButton"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

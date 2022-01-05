@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MenuList">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:orientation="horizontal"
+        android:weightSum="16"
+        android:id="@+id/panel"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Menu List"
+            android:textColor="@color/black"
+            android:fontFamily="monospace"
+            android:textAlignment="center"
+            android:layout_gravity="center_vertical"
+            android:textStyle="bold"
+            android:textSize="32sp"
+            android:layout_weight="13"
+            tools:ignore="HardcodedText,RtlCompat" />
+
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:id="@+id/btnCart">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/cartButton"
+                android:src="@drawable/ic_baseline_shopping_cart_24"
+                android:layout_gravity="center_vertical"
+                tools:ignore="ContentDescription" />
+
+            <com.nex3z.notificationbadge.NotificationBadge
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:id="@+id/badge"
+                app:nbMaxTextLength="2"
+                android:layout_marginLeft="10dp"
+                tools:ignore="RtlHardcoded" />
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_drink"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/panel" />
+</RelativeLayout>

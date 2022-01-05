@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/drawable-v24/ic_baseline_login_order.xml" value="0.2526041666666667" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/drawable-v24/radio_selected.xml" value="0.2526041666666667" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.15462962962962962" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.15462962962962962" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.15462962962962962" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_indeterminate_check_box_24.xml" value="0.15462962962962962" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.15462962962962962" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.15462962962962962" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_QrFragment.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_auto_image_slider.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_cart.xml" value="0.47789473684210526" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_home_delivery_liquid_swipe.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_menu_list.xml" value="0.21467391304347827" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_place_your_order.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_show.xml" value="0.21829710144927536" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_splashscreen.xml" value="0.22327898550724637" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_userlist.xml" value="0.22327898550724637" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/activity_xyz.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_delivery.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page1.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page2.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page3.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page4.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page5.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_login_tab.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_qr.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_qr_code.xml" value="0.2" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/fragment_sign_up_tab.xml" value="0.23645833333333333" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/item.xml" value="0.21467391304347827" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/layout_cart_item.xml" value="0.1" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/layout_drink_item.xml" value="0.22239583333333332" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/menu_items.xml" value="0.1" />
+        <entry key="..\:/ClitzARestaurantApp-20211005T125343Z-001/ClitzARestaurantApp/app/src/main/res/layout/slider_images.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/drawable-v24/radio_selected.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/drawable-v24/radio_selector.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/drawable/edit_text_box_border.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_indeterminate_check_box_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/drawable/sign_in_button_border.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/drawable/view_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/activity_auto_image_slider.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/activity_cart.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/activity_dine_in_order_placed.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/activity_home_delivery_liquid_swipe.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/activity_menu_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/activity_place_your_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/activity_splashscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/activity_xyz.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/fragment_delivery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/fragment_hd_page5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/fragment_login_tab.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/fragment_qr_code.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/fragment_sign_up_tab.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/layout_cart_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ClitzARestaurantApp/app/src/main/res/layout/layout_drink_item.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

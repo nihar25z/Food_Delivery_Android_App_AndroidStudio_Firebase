@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470418525436",
+    "project_id": "clitz---a-restaurant-app",
+    "storage_bucket": "clitz---a-restaurant-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470418525436:android:90f9bda3308ca707281b79",
+        "android_client_info": {
+          "package_name": "com.example.clitz_arestaurantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470418525436-0naa1e6sn34dftb4nplf96iidmli5mvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALpjz4_uk-fQEOehqtKmphGZNVD3inf3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470418525436-0naa1e6sn34dftb4nplf96iidmli5mvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
